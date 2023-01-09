@@ -9,7 +9,7 @@ export const GET_PROPERTY_LIST = gql`
           eq:$location
         }
       },
-      numberOfBedroom:{
+      numberOfBedrooms:{
         id:{
           eq:$numberOfBedroom
         }
